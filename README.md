@@ -18,4 +18,4 @@ Key Features:
 
 -Customizable: The background color and other UI elements can be customized easily.
 
-This application is ideal for learning purposes, especially for those interested in text processing in Android development using Kotlin.
+ This application is ideal for learning purposes, especially for those interested in text processing in Android development using Kotlin.
